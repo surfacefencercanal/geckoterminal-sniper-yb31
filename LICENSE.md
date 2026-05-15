@@ -1,4 +1,4 @@
-# 
+# new geckoterminal sniper bot | front-running + private-RPC-nodes is the best geckoterminal sniper bot, featuring front-running and private-RPC-nodes. Fast, smart, and optimized
 
 
 
